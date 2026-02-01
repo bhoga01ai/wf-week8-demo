@@ -1,6 +1,6 @@
-# FastAPI Demo - Quick Start Guide
+# FastAPI Demo - Quick Start Guide updated as of today
 
-## What's Included
+## What's Included 
 
 This demo includes:
 - **FastAPI Backend** ([app.py](app.py)) - RESTful API with CRUD operations for items
